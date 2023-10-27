@@ -4,9 +4,10 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: 你博客的名称
+bgImage: /bg.jpg
+heroText: WUDI 学习工作平台
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: Kill your way to heaven
 projects:
   - icon: project
     name: 项目名称
